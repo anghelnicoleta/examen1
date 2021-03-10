@@ -114,6 +114,7 @@ int main()
     g << "Nr pare: " << nrPare << endl;
     div_imp_pozitieCifra(v, 0, n - 1);
     return 0;
+    //update
 }
 
 
