@@ -1,0 +1,6 @@
+﻿  examen1.cpp
+D:\an 2 sem 1\algoritmi\examen1\examen1\examen1.cpp(67,14): warning C4101: 'pare1': unreferenced local variable
+D:\an 2 sem 1\algoritmi\examen1\examen1\examen1.cpp(67,21): warning C4101: 'pare2': unreferenced local variable
+D:\an 2 sem 1\algoritmi\examen1\examen1\examen1.cpp(85,14): warning C4101: 'pare1': unreferenced local variable
+D:\an 2 sem 1\algoritmi\examen1\examen1\examen1.cpp(85,21): warning C4101: 'pare2': unreferenced local variable
+  examen1.vcxproj -> D:\an 2 sem 1\algoritmi\examen1\Debug\examen1.exe
